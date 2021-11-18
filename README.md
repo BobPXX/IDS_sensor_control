@@ -1,5 +1,6 @@
 # IDS_sensor_control
 Python code to control U3-3882SE-C (IDS peak).
+Install: https://en.ids-imaging.com/files/downloads/ids-peak/readme/ids-peak-windows-readme-1.2_EN.html
 
 Experiments performed in below two papers are using this code：
 1. Xiuxi Pan, Tomoya Nakamura, Xiao Chen, and Masahiro Yamaguchi, "Lensless inference camera: incoherent object recognition through a thin mask with LBP map generation." Optics Express 29.7: 9758-9771 (2021).
